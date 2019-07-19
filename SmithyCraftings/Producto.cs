@@ -6,12 +6,12 @@ namespace SmithyCraftings
 {
     class Producto
     {
-        private int notengoguionbajo;
+        private int _notengoguionbajo;
 
         public int Notengoguionbajo
         {
-            get { return notengoguionbajo; }
-            set { notengoguionbajo = value; }
+            get { return _notengoguionbajo; }
+            set { _notengoguionbajo = value; }
         }
 
     }
