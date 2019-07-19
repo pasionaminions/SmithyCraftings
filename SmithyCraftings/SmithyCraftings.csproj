@@ -11,4 +11,8 @@
     <Folder Include="Gemas\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PasionaAnalyzer" Version="1.1.0" />
+  </ItemGroup>
+
 </Project>
